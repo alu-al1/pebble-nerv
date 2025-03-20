@@ -1,0 +1,10 @@
+build
+.lock-waf*
+
+node_modules
+
+
+info
+todo
+links
+i3wm_*
